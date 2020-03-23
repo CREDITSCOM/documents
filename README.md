@@ -16,6 +16,7 @@ The key advantages of Credits technology are high network capacity, fast transac
 * Duration for 17th hours on 18th February 2018
 * Collected 17 millions USD, raised in ETH pegged to 865 USD
 * More than 16,000 contributors
+* Individual caps with a limit of 9.9 ETH
 # Token Allocation Schedule
 | Definition | Amount of CS | Percent |
 | ------------- | ------------------ | ----- |
