@@ -4,6 +4,7 @@ Credits is an open source and decentralized blockchain platform for development 
 The key advantages of Credits technology are high network capacity, fast transaction’s processing time and low fees from 0.001 USD. These features allow project to serve like a mediator between users & business and initiate the adoption of blockchain technology by implementing different solutions by means of Credits protocol.
 
 # Documentation
+* [Manual Swap Instruction](https://github.com/CREDITSCOM/documents/blob/master/Credits_(CS)_Token_Swap_Guideline.pdf)
 * [White Paper 2.1](https://github.com/CREDITSCOM/documents/blob/master/White%20Paper%202.1.pdf)
 * [Yellow Paper 2.1](https://github.com/CREDITSCOM/documents/blob/master/Yellow%20Paper%202.1.pdf)
 * [Consensus Protocol - PoA](https://github.com/CREDITSCOM/documents/blob/master/POA%20(Proof-of-Agreement).pdf)
